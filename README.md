@@ -19,7 +19,7 @@
 ## 📂 Структура проекта
 
 ```
-api_learn/
+api_news_learn/
 │── news_cli.py        # основной скрипт
 │── .env               # ключи API (не попадает в Git)
 │── .gitignore         # исключает venv и .env
@@ -33,7 +33,7 @@ api_learn/
 
 1. Клонируйте проект:
    ```bash
-   git clone https://github.com/ВАШ_ЛОГИН/api_learn.git
+   git clone https://github.com/ВАШ_ЛОГИН/api_news_learn.git
    cd api_learn
    ```
 
